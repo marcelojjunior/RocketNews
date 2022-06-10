@@ -7,7 +7,7 @@ Desafio feito na trilha Discover da plataforma da Rocketseat, onde o desafio é 
 
 <p align="left">
 <code>
-<img src="images/readme/printRocketNews" height="200px">
+<img src="images/readme/printRocketNews.png" height="200px">
 </code>
 </p>
  
