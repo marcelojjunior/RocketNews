@@ -1,0 +1,102 @@
+body {
+    background-color: black;
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+.container{
+    position: fixed;
+}
+
+.imgReadNews {
+    width: 50%;
+    height: 625px;
+    object-fit: cover;
+    float: right;
+    object-position: right 45%;
+}
+
+.logo {
+    position: static;
+    width: 30%;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.text1 {
+    color: #08C05E;
+    font-family: work sans;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 40px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.text2 {
+    color: #FFFFFF;
+    font-family: League Spartan;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.text3 {
+    color: #FFFFFF;
+    font-family: League Spartan;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.text4 {
+    color: #FFFFFF;
+    font-family: League Spartan;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+.form {
+    color: #A8A8A8;
+    display: flex;
+    flex-direction: row;
+    font-family: League Spartan;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.input {
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    width: 750px;
+    height: 50px;
+    border-left: 5px solid #08C05E;
+    border-radius: 5px 0px 0px 5px;
+    padding-left: 10px;
+    margin: 0px;
+}
+
+.button {
+    background-color: #8257E5;
+    padding: 10px 10px;
+    width: 31px;
+    height: 31px;
+    border: none;
+    margin: 0px;
+}
+
+.link {
+    color: #8257E5;
+    margin-left: 40px;
+    text-decoration: none;
+    font-family: League Spartan;
+    font-weight: bold;
+    font-size: 14px;
+}
